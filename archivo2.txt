@@ -1,0 +1,2 @@
+Núm.placa        Tiempo estacionado(min)         cantidad a pagar
+abc127                 17                              136.0
